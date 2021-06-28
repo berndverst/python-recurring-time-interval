@@ -1,2 +1,2 @@
-# python-repeatable-time-interval
-Python Repeatable / Recurring Time Interval per ISO 8601
+# python-recurring-time-interval
+Python Repeating / Recurring Time Interval per ISO 8601
